@@ -10,5 +10,5 @@
             "routePrefix": "/backend"
         }
     },
-    "outputDirectory": "dist"
+    "outputDirectory": "build"
 }
