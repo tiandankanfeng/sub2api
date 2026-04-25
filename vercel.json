@@ -9,5 +9,6 @@
             "entrypoint": "backend",
             "routePrefix": "/backend"
         }
-    }
+    },
+    "outputDirectory": "dist"
 }
